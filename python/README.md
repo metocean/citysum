@@ -1,4 +1,4 @@
-This is a python / Cython bloom using CityHash.  
+This is a python / Cython file sum using CityHash.  
 
 To install either type ```make``` and ```make clean``` to install type ```python setup.py install```.  
 
